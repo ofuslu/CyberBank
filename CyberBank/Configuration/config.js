@@ -10,7 +10,7 @@ exports.config = {
   },
   
   specs: ['../Tests/DataProvider.spec.js'], 
-
+// hOW YOU DOIN aNNA
   /*
   suites:{
       smoke:['../Tests/BankManagerSimple.spec.js/', '../Tests/demo.spec.js'],
